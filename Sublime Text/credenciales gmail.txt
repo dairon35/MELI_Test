@@ -1,6 +1,0 @@
-permitir envio de email usando mi cuenta de gmail:
-
-https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OQ71Yccw-wPFcU7GDUMRL24KGIgsC7itWtlTXMLBC9KfAvQ66MZan7AG3FgF9wfvP6VCijYw-CrQLIUy8nUDyI8TX8jA
-
-credenciales casilla de email de lab:
-Kal1Ph1t04meli
