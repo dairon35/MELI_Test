@@ -18,3 +18,4 @@ La segunda forma que se me ocurrio fue generar un PDF a partir de una query cont
 Importante:
 El codigo se encuentra dentro del archivo BBDD.py y la base de datos se llama Mirror_PRD.
 La base de datos esta creada en sqlite3 y el editor de texto usado es sublime text.
+Los demas archivos son intentos de completar el ejercicio.
